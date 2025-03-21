@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">สรวิศ ภูทะวัง 6604101387</string>
+    <string name="app_title">วันสำคัญของคุณ</string>
+    <string name="add_event">เพิ่มวันสำคัญ</string>
+    <string name="event_title">ชื่อวันสำคัญ</string>
+    <string name="event_date">วันที่</string>
+    <string name="select_date">เลือกวันที่</string>
+    <string name="save_event">บันทึก</string>
+    <string name="enable_notification">เปิดการแจ้งเตือน</string>
+    <string name="no_events">ยังไม่มีวันสำคัญที่บันทึกไว้</string>
+    <string name="days_left">เหลือ %d วัน</string>
+    <string name="today">วันนี้!</string>
+    <string name="notification_title">วันสำคัญ: %s</string>
+    <string name="notification_text">วันนี้คือ %s</string>
+    <string name="edit_event">แก้ไขวันสำคัญ</string>
+    <string name="delete_event">ลบวันสำคัญ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="language_button_th">TH</string>
+    <string name="language_button_en">EN</string>
+    <string name="exit_app">ออกจากแอพ</string>
+    <string name="exit_confirmation">คุณต้องการออกจากแอพพลิเคชันใช่หรือไม่?</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="delete_confirmation">ต้องการลบ \"%s\" ใช่หรือไม่?</string>
+</resources>

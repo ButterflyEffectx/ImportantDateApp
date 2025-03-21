@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">สรวิศ ภูทะวัง 6604101387</string>
+    <string name="app_title">Your Important Dates</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_date">Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="save_event">Save</string>
+    <string name="enable_notification">Enable Notification</string>
+    <string name="no_events">No saved events yet</string>
+    <string name="days_left">%d days left</string>
+    <string name="today">Today!</string>
+    <string name="notification_title">Important Date: %s</string>
+    <string name="notification_text">Today is %s</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="cancel">Cancel</string>
+    <string name="language_button_th">TH</string>
+    <string name="language_button_en">EN</string>
+    <string name="exit_app">Exit App</string>
+    <string name="exit_confirmation">Do you want to exit the application?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_confirmation">Do you want to delete \"%s\"?</string>
+</resources>
